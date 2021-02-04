@@ -1,0 +1,243 @@
+@media (max-width:1199.98px){
+    .features img {
+        width: 220px;
+        height: 220px;
+    } 
+    
+}
+
+
+@media (max-width:991.98px) {
+    .features img {
+        width: 250px;
+        height: 250px;
+        text-align: center;
+    }
+      /* section features */
+      .features h3 {
+        font-size: 25px;
+    }
+    .features p {
+        font-size: 18px;
+        width: 500px;
+        margin: 0 auto 20px;
+    }
+    .features .button {
+        font-size: 12px;
+        padding:13px 19px;
+        outline: none;
+    }
+    .features .button:focus {
+        background: #ec4940;
+    }
+    .features img {
+        width: 250px;
+        height: 250px;
+    }
+    /* End of features */
+    
+    
+     /* Section Services */
+     .services .fa {
+        font-size: 55px;
+    }
+    .services h3 {
+        font-size: 17px;
+    }
+    .services p {
+        font-size: 14px !important;
+    }
+    /* End of Section Services */
+    
+    
+       /* Header */
+       h1 {
+        font-size: 45px;
+    }
+    header p {
+        font-size: 30px;
+    }
+    header a {
+        font-size: 13px;
+        padding:15px 45px;
+    }
+    
+    
+    
+}
+
+
+@media (max-width:767.98px) {
+     /* Footer */
+     footer h4 {
+        font-size: 24px;
+    }
+    footer p {
+        font-size: 17px;
+        width: 350px;
+        margin:0 auto;
+        margin-bottom:20px;
+    }
+    footer a {
+        font-size: 14px;
+    }
+    .socials a {
+        width: 30px;
+        height: 30px;
+    }
+    .copy {
+        font-size: 14px !important;
+    }
+    /* End of Footer */
+    
+    
+       /* section features */
+       .features h3 {
+        font-size: 20px;
+    }
+    .features p {
+        font-size: 18px;
+        width: 450px;
+        margin: 0 auto 20px;
+    }
+    .features .button {
+        font-size: 10px;
+        padding:12px 18px;
+        outline: none;
+    }
+    .features .button:focus {
+        background: #ec4940;
+    }
+    .features img {
+        width: 250px;
+        height: 250px;
+    }
+    /* End of features */
+    
+    
+     /* Section Services */
+     .services .fa {
+        font-size: 50px;
+    }
+    .services h3 {
+        font-size: 17px;
+    }
+    .services p {
+        font-size: 12px !important;
+    }
+    /* End of Section Services */
+    
+    
+     /* Header */
+     h1 {
+        font-size: 35px;
+    }
+    header p {
+        font-size: 25px;
+    }
+    header a {
+        font-size: 10px;
+        padding:15px 40px;
+    }
+    
+    
+    /* Navbar */
+    .navbar-toggler {
+        margin-right:20px;
+    }
+    .navbar-brand {
+         margin-left:20px;
+    }
+     .nav-link {
+         font-size: 11px !important;
+     }
+        
+    
+}
+
+
+@media (max-width:575.98px) {
+    /* Footer */
+    footer h4 {
+        font-size: 20px;
+    }
+    footer p {
+        font-size: 16px;
+        width: 300px;
+        margin:0 auto;
+        margin-bottom:20px;
+    }
+    footer a {
+        font-size: 12px;
+    }
+    .socials a {
+        width: 25px;
+        height: 25px;
+    }
+    .copy {
+        font-size: 12px !important;
+    }
+    /* End of Footer */
+    
+    /* section features */
+    .features h3 {
+        font-size: 20px;
+    }
+    .features p {
+        font-size: 16px;
+        width: 250px;
+        margin: 0 auto 20px;
+    }
+    .features .button {
+        font-size: 8px;
+        padding:10px 15px;
+        outline: none;
+    }
+    .features .button:focus {
+        background: #ec4940;
+    }
+    .features img {
+        width: 200px;
+        height: 200px;
+    }
+    /* End of features */
+    
+    
+    /* Section Services */
+    .services .fa {
+        font-size: 40px;
+    }
+    .services h3 {
+        font-size: 16px;
+    }
+    .services p {
+        font-size: 12px !important;
+    }
+    /* End of Section Services */
+    
+    
+    /* Header */
+    h1 {
+        font-size: 30px;
+    }
+    header p {
+        font-size: 20px;
+    }
+    header a {
+        font-size: 10px;
+        padding:15px 40px;
+    }
+    /* End of Header */
+    
+    /* Navbar */
+    .navbar-toggler {
+        margin:0 10px;
+    }
+    .navbar-brand {
+        margin-left:20px;
+    }
+    .nav-link {
+        font-size: 10px !important;
+    }
+    /* End of Navbar */
+}
